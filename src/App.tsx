@@ -3,7 +3,7 @@ function App() {
     <h1>
       First Step!
     </h1>
-  )
+  );
 }
 
-export default App
+export default App;
